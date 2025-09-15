@@ -12,6 +12,8 @@ Single-file Streamlit demo: app.py
 ## Files
 - app.py  — main Streamlit app
 - requirements.txt — Python dependencies
+- AI JUGAAD SQUAD - POWERPOINT PRESENTATION
+- AI JUGAAD SQUAD - PDF FOR REFERENCE
 
 ## Quick local run (Linux / macOS)
 1. Create & activate venv (recommended):
