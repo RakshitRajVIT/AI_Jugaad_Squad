@@ -18,3 +18,5 @@ Single-file Streamlit demo: app.py
    ```bash
    python3 -m venv venv
    source venv/bin/activate
+
+## [App Link](https://aijugaadsquaddetection85.streamlit.app/)
